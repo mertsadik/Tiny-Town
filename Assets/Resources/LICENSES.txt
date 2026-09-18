@@ -1,0 +1,49 @@
+TinyTown - kullanilan hazir assetler ve lisanslari
+=================================================
+
+3D MODELLER (Kenney)
+--------------------
+Kaynak : Kenney - Hexagon Kit 2.0 (https://kenney.nl/assets/hexagon-kit)
+Lisans : Creative Commons CC0 1.0 (kamu mali, ticari kullanim serbest, atif zorunlu degil)
+
+  Modeller/grass.fbx             <- Models/FBX format/grass.fbx            (Cimen)
+  Modeller/grass-forest.fbx      <- Models/FBX format/grass-forest.fbx     (Orman)
+  Modeller/building-village.fbx  <- Models/FBX format/building-village.fbx (Ev)
+  Modeller/building-farm.fbx     <- Models/FBX format/building-farm.fbx    (Tarla)
+  Modeller/water.fbx             <- Models/FBX format/water.fbx            (Gol)
+  Modeller/building-mill.fbx     <- Models/FBX format/building-mill.fbx    (Degirmen)
+  Modeller/building-port.fbx     <- Models/FBX format/building-port.fbx    (Liman)
+  Modeller/Textures/colormap.png <- Models/FBX format/Textures/colormap.png
+
+
+PARCACIKLAR
+-----------
+Hazir doku kullanilmiyor; toz ve konfeti dokusu oyunda kodla ciziliyor (Efektler.cs).
+
+
+SESLER (Kenney)
+---------------
+Lisans : Creative Commons CC0 1.0
+
+  Sesler/yerlestir.ogg <- Impact Sounds / impactWood_medium_000.ogg
+                          (https://kenney.nl/assets/impact-sounds)
+  Sesler/kapandi.ogg   <- Impact Sounds / impactPlank_medium_000.ogg
+  Sesler/gorev.ogg     <- Interface Sounds / confirmation_001.ogg
+                          (https://kenney.nl/assets/interface-sounds)
+  Sesler/oyunsonu.ogg  <- Music Jingles / Pizzicato jingles / jingles_PIZZI00.ogg
+                          (https://kenney.nl/assets/music-jingles)
+
+
+FONT
+----
+  Fonts/Poppins-Bold.ttf
+  Kaynak : Google Fonts (https://fonts.google.com/specimen/Poppins)
+  Tasarim: Indian Type Foundry, Jonny Pinhorn
+  Lisans : SIL Open Font License 1.1 (https://scripts.sil.org/OFL)
+
+
+NOT
+---
+CC0 assetler icin atif zorunlu degildir, yine de kaynaklar burada listelenmistir.
+OFL lisansli font uygulama icinde gomulu olarak dagitilabilir; fontun kendisini
+ayri bir urun olarak satmak yasaktir.

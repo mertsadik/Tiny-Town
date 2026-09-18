@@ -1,0 +1,37 @@
+﻿# Unity tarafindan uretilen klasorler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Visual Studio / Rider dosyalari
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build ciktilari
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
